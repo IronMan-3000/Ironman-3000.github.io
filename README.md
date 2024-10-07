@@ -2,16 +2,16 @@
 
 ## Technical Skilla
 
-***Languages** : JavaScript, TypeScript, Java, Python, Tailwind, HTML, SCSS, CSS, C, C++
-**Web Dev** : Angular, React, Redux, NextJs, Spring Boot, Kafka, Flask, NodeJS, ExpressJs, Bootstrap
-**Databases** : MySQL, MongoDb, PostgreSQL, Cassandra
-**Cloud** : AWS, S3, SNS, SQS, Cloud Foundry
-**Tools** : Kubernetes, Docker, Terraform, Git, CI/CD, Jenkins, Postman, Blazemeter, Linux
-**Certification**: AWS Certified Solutions Architect – Associate, Neural Networks and Deep Learning
+**Languages** : JavaScript, TypeScript, Java, Python, Tailwind, HTML, SCSS, CSS, C, C++  
+**Web Dev** : Angular, React, Redux, NextJs, Spring Boot, Kafka, Flask, NodeJS, ExpressJs, Bootstrap  
+**Databases** : MySQL, MongoDb, PostgreSQL, Cassandra    
+**Cloud** : AWS, S3, SNS, SQS, Cloud Foundry  
+**Tools** : Kubernetes, Docker, Terraform, Git, CI/CD, Jenkins, Postman, Blazemeter, Linux  
+**Certification**: AWS Certified Solutions Architect – Associate, Neural Networks and Deep Learning  
 
-## Eductaion
-- MS in Computer Science | University of California Riverside, USA (__Dec 2024__)
-- Btech in Computer Science | VNR VJIET, India (__Jul 2021__)
+## Education
+- MS in Computer Science | University of California Riverside, USA (__Dec 2024__)  
+- Btech in Computer Science | VNR VJIET, India (__Jul 2021__)  
 
 
 ## Work Experience
