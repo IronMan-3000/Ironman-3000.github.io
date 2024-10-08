@@ -9,6 +9,8 @@ header_pages:
   - _pages/projects.md
   - _pages/publications.md
 
-
-
-
+# Configuring permalinks for all pages in the _pages directory
+collections:
+  pages:
+    output: true
+    permalink: /:title/
