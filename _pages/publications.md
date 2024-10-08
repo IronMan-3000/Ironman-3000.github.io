@@ -1,6 +1,6 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: page
+layout: default
 ---
 
