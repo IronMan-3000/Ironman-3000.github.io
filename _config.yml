@@ -3,7 +3,6 @@ title: "Rohith Portfolio"
 logo: /assets/img/Rohith_new.jpeg
 
 header_pages:
-  - index.md
   - _pages/experience.md
   - _pages/resume.md
   - _pages/talks.md
