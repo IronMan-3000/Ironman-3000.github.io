@@ -12,4 +12,7 @@ header_pages:
 
 
 plugins:
- - jekyll-paginate
+  - jekyll-paginate
+paginate: 5  # Number of posts per page
+paginate_path: "/blog/page:num/"
+
