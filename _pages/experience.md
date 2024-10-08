@@ -1,5 +1,5 @@
 ---
 title: "Experience"
 permalink: /experience/
-layout: page
+layout: default
 ---
