@@ -9,3 +9,7 @@ header_pages:
   - talks.md
   - projects.md
   - publications.md
+
+
+plugins:
+ - jekyll-paginate
