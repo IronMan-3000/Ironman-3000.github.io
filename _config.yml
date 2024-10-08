@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
+title: "Rohith Portfolio"
 logo: /assets/img/Rohith_new.jpeg
+
+header_pages:
+  - about.md
+  - experience.md
+  - resume.md
+  - talks.md
+  - projects.md
+  - publications.md
