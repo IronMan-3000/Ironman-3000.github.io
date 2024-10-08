@@ -1,3 +1,10 @@
+---
+title: "About"
+permalink : /
+layout: page
+---
+
+
 # Rohith Reddy K
 
 ## Technical Skills
