@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-permalink: /files/Rohith_resumee.pdf/
+permalink: /files/Rohith_resume.pdf/
 layout: default
 sidebar: false
 ---
