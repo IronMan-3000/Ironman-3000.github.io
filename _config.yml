@@ -3,11 +3,17 @@ title: "Rohith Portfolio"
 logo: /assets/img/Rohith_new.jpeg
 
 header_pages:
-  - _pages/experience.md
-  - _pages/resume.md
-  - _pages/talks.md
-  - _pages/projects.md
-  - _pages/publications.md
+  - title: "Experience"
+    url: /experience/
+  - title: "Resume"
+    url: /files/Rohith_resumee.pdf
+  - title: "Talks"
+    url: /talks/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
+
 
 # Configuring permalinks for all pages in the _pages directory
 collections:
